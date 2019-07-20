@@ -1,2 +1,2 @@
 # Gimbal
-A 3-axis gimbal for camare stabilizing has been designed in this program. 
+ A 3-axis gimbal for camare stabilizing has been designed in this program. The architecture of the system is not optimal for  commercial purpose, but for study. In the system, algorithms for gimbal modeling, attitude solution, motor control, fusion filtering etc. will be used and high speed communication between multi-MCU with DMA will also be verified. Green hands can learn the relative algorithms by following this program; past masters could develop high performance scheme in this platform.
